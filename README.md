@@ -11,7 +11,7 @@ Currently, I am learning python programming and practising it by solving differe
 
 Previously I've learnt html and css and built websites on freecodecamp. If you catch me outside work I play cricket. I love to help people and interact and communicate with them. I believe if you have better understanding and communication with people than you will be comfortable to work anywhere in the world.
 
-Skills: Python / HTML / CSS
+Skills: Python / HTML / CSS / C++
 
 - 🔭 I’m currently working on Youthbee organisation as Social Media Manager 
 - 🌱 I’m currently learning Problem solving with Python 
