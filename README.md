@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQFwZj9gvJ9how/profile-displaybackgroundimage-shrink_350_1400/0/1659804578930?e=1674691200&v=beta&t=ZZfjPtuiFHsMuZQQQLpbXIEVKZaU5IxfD9GKWkAg8Vs)
+
 
 ### Hi there 👋, I am Zaynul Abedin Miah
 
