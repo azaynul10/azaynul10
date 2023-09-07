@@ -1,4 +1,3 @@
-[![MasterHead](https://connectjaya.com/wp-content/uploads/2022/01/10a01f708bb7f8c50362c7e59f39d22d.gif)](https://dev.to/azaynul10)
 <h2 align="center">Hi <img alt="hand waving" width="40" src="https://user-images.githubusercontent.com/87297355/155946069-15aa5c06-ddfe-4d02-96fa-ea9b3eb5ed1c.gif">, I'm Zaynul Abedin Miah</h2>
 <h3 align="center">An AI and ML enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="1000" height="500" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
