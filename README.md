@@ -5,13 +5,13 @@
 
 "𝗪𝗶𝘁𝗵 𝗵𝗮𝗿𝗱𝘄𝗼𝗿𝗸 𝗮𝗻𝗱 𝗱𝗲𝘁𝗲𝗿𝗺𝗶𝗻𝗮𝘁𝗶𝗼𝗻 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗮𝗰𝗵𝗶𝗲𝘃𝗲 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴"
 
-First-year computer science student, future web developer/software developer in database administration and web designs. My passion for web designing and programming brought me to Brac University where I am working on my bachelor's degree.
+First-year computer science student and also Microsoft Learn Alpha Student Ambassador. Future AI engineer/software developer in database administration. My passion for Machine Learning and programming brought me to Brac University where I am pursuing my bachelor's degree.
 
-Currently, I am learning python programming and practising it by solving different types of tasks we face on our daily lives. And I have also joined computers club of brac university on communication and marketing department as a general member to learn activities outside of work.
+Currently, I am learning python programming and practising it by solving different types of tasks we face on our daily lives. And I am also part of computers club of brac university  and also Robotics Club of Brac University as an executive and also apprentice. I am also working alongside devchangemaker community as a lead and also a moderator for that facebook page. 
 
-Previously I've learnt html and css and built websites on freecodecamp. If you catch me outside work I play cricket. I love to help people and interact and communicate with them. I believe if you have better understanding and communication with people than you will be comfortable to work anywhere in the world.
+Before joining my university  I've learnt html and css and built websites on freecodecamp. If you catch me outside work I play cricket. I love to help people and interact and communicate with them. I believe if you have better understanding and communication with people than you will be comfortable to work anywhere in the world.
 
-Skills: Python / HTML / CSS / C++
+Skills: Python , DSA , OOP
 
 - 🔭 I’m currently working on Youthbee organisation as Social Media Manager 
 - 🌱 I’m currently learning Problem solving with Python 
