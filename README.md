@@ -1,27 +1,51 @@
+[![MasterHead](https://connectjaya.com/wp-content/uploads/2022/01/10a01f708bb7f8c50362c7e59f39d22d.gif)](https://dev.to/azaynul10)
+<h1 align="center">Hi 👋, I'm Zaynul Abedin Miah</h1>
+<h3 align="center">An AI and ML enthusiast from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azaynul10&label=Profile%20views&color=0e75b6&style=flat" alt="azaynul10" /> </p>
 
-### Hi there 👋, I am Zaynul Abedin Miah
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaynul10" alt="azaynul10" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/azaynul123" target="blank"><img src="https://img.shields.io/twitter/follow/azaynul123?logo=twitter&style=for-the-badge" alt="azaynul123" /></a> </p>
 
-"𝗪𝗶𝘁𝗵 𝗵𝗮𝗿𝗱𝘄𝗼𝗿𝗸 𝗮𝗻𝗱 𝗱𝗲𝘁𝗲𝗿𝗺𝗶𝗻𝗮𝘁𝗶𝗼𝗻 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗮𝗰𝗵𝗶𝗲𝘃𝗲 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴"
+- 🔭 I’m currently working on [as Microsoft Learn Alpha Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/0aa833b2-8b54-4e12-b0ea-d4a3fb435449)
 
-First-year computer science student and also Microsoft Learn Alpha Student Ambassador. Future AI engineer/software developer in database administration. My passion for Machine Learning and programming brought me to Brac University where I am pursuing my bachelor's degree.
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
-Currently, I am learning python programming and practising it by solving different types of tasks we face on our daily lives. And I am also part of computers club of brac university  and also Robotics Club of Brac University as an executive and also apprentice. I am also working alongside devchangemaker community as a lead and also a moderator for that facebook page. 
+- 👯 I’m looking to collaborate on **a project realted to AI and ML and DSA**
 
-Before joining my university  I've learnt html and css and built websites on freecodecamp. If you catch me outside work I play cricket. I love to help people and interact and communicate with them. I believe if you have better understanding and communication with people than you will be comfortable to work anywhere in the world.
+- 📝 I regularly write articles on [https://dev.to/azaynul10](https://dev.to/azaynul10)
 
-Skills: Python , DSA , OOP
+- 💬 Ask me about **OOP and ML**
 
-- 🔭 I’m currently working on Youthbee organisation as Social Media Manager 
-- 🌱 I’m currently learning Problem solving with Python 
-- 👯 I’m looking to collaborate on github 
+- 📫 How to reach me **Zaynul.AbedinMiah@studentambassadors.com**
 
+- ⚡ Fun fact **I think I am funny**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/azaynul10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zaynul-abedin-miah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/zaynulabedin11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/__zayn_abedin_miah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/azaynul123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/azaynul123)  
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/azaynul123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="azaynul123" height="30" width="40" /></a>
+<a href="https://dev.to/azaynul10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="azaynul10" height="30" width="40" /></a>
+<a href="https://twitter.com/azaynul123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azaynul123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaynul-abedin-miah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaynul-abedin-miah" height="30" width="40" /></a>
+<a href="https://fb.com/zaynulabedin10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zaynulabedin10" height="30" width="40" /></a>
+<a href="https://instagram.com/__zayn_abedin_miah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__zayn_abedin_miah" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zaynul abedin miah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zaynul abedin miah" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/azaynul3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="azaynul3" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/multicoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="multicoder" height="30" width="40" /></a>
+<a href="https://discord.gg/#2809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2809" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy))
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/azaynul10)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azaynul10&show_icons=true&locale=en&layout=compact" alt="azaynul10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaynul10&show_icons=true&locale=en" alt="azaynul10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azaynul10&" alt="azaynul10" /></p>
