@@ -1,5 +1,5 @@
 <h2 align="center">Hi <img alt="hand waving" width="40" src="https://user-images.githubusercontent.com/87297355/155946069-15aa5c06-ddfe-4d02-96fa-ea9b3eb5ed1c.gif">, I'm Zaynul Abedin Miah</h2>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+world!+%F0%9F%8C%90%F0%9F%92%BB;I+am+an+AI+and+ML+enthusiast++;give+some+stars+%F0%9F%8C%9F;fork+your+favorites+%F0%9F%8D%B4;even+send+a+pull+request+%F0%9F%A4%9D" alt="Typing SVG" /></a></h3>
+<h3 align="center" href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+world!+%F0%9F%8C%90%F0%9F%92%BB;I+am+an+AI+and+ML+enthusiast++;give+some+stars+%F0%9F%8C%9F;fork+your+favorites+%F0%9F%8D%B4;even+send+a+pull+request+%F0%9F%A4%9D" alt="Typing SVG"></h3>
 <img align="right" alt="Coding" width="1000" height="500" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaynul10&label=Profile%20views&color=0e75b6&style=flat" alt="azaynul10" /> </p>
