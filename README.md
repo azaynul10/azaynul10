@@ -80,7 +80,7 @@
 </p>
 
 
-[![azaynul10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azaynul10)](https://github.com/azaynul10/github-readme-activity-graph)
+[![azaynul10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azaynul10&theme=tokyo-night&hide_border=true)](https://github.com/azaynul10/github-readme-activity-graph)
 
 <!-- ## <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qvjsvrsasz3ywlhwvbuqpnjzvy&cover_image=true&theme=default&bar_color_cover=true&)](https://spotify-github-profile.vercel.app/api/view?uid=31qvjsvrsasz3ywlhwvbuqpnjzvy&redirect=true)
