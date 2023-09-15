@@ -60,7 +60,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=azaynul10&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="azaynul10" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=azaynul10&theme=transparent&show_icons=true" alt="azaynul10" />
 <img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=azaynul10&theme=tokyonight&hide_border=true" alt="azaynul10" />
 </p>
 
