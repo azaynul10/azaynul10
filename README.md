@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/azaynul10/azaynul10/master/My-Github-cover-page.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/azaynul10/azaynul10/master/My-Github-cover-page.jpg" alt="banner that says Zaynul Abedin Miah - Computer Science student, and a quote">
 <h1 align="center">Hi <img alt="hand waving" width="40" src="https://user-images.githubusercontent.com/87297355/155946069-15aa5c06-ddfe-4d02-96fa-ea9b3eb5ed1c.gif">, I'm Zaynul Abedin Miah</h2>
 <h3 align="center">I am a second-year student at the Brac University, studying towards a degree in Computer Science. My main area of focus is AI and I enjoy working on side projects to enhance my skills for my future career.</h3>
 
@@ -9,6 +9,7 @@
 </p>
 
 <img align="right" alt="Coding" width="400" height="200" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+world!+%F0%9F%8C%90%F0%9F%92%BB;I+am+an+AI+and+ML+enthusiast++;give+some+stars+%F0%9F%8C%9F;fork+your+favorites+%F0%9F%8D%B4;even+send+a+pull+request+%F0%9F%A4%9D">
+<img align="right" width="150" height="150" src="https://raw.githubusercontent.com/azaynul10/azaynul10/master/daftpunktocat-thomas.gif"></a>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=azaynul10&label=Profile%20views&color=0e75b6&style=flat" alt="azaynul10" /> 
