@@ -17,19 +17,19 @@
 
 <p align="left"> <a href="https://twitter.com/azaynul123" target="blank"><img src="https://img.shields.io/twitter/follow/azaynul123?logo=twitter&style=for-the-badge" alt="azaynul123" /></a> </p>
 
-- 🔭 I’m currently working on [as Microsoft Learn Alpha Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/0aa833b2-8b54-4e12-b0ea-d4a3fb435449)
+- 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/)
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **AWS Cloud and DSA**
 
-- 👯 I’m looking to collaborate on **a project realted to AI and ML and DSA**
+- 👯 I’m looking to collaborate on **a project realted to AI,ML,DSA and Devops enthusiast**
 
 - 📝 I regularly write articles on [https://dev.to/azaynul10](https://dev.to/azaynul10)
 
-- 💬 Ask me about **OOP and ML**
+- 💬 Ask me about **AI and ML**
 
 - 📫 How to reach me **Zaynul.AbedinMiah@studentambassadors.com**
 
-- ⚡ Fun fact **I love meeting new people and communicate with them**
+- ⚡ Fun fact **I love meeting new people and communicating with them**
 
 <div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div>
 
