@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/azaynul10/azaynul10/master/Blue Gray Geometric Technology LinkedIn Banner .jpg" alt="banner that says Zaynul Abedin Miah - Computer Science student, and a quote">
+<img src="https://raw.githubusercontent.com/azaynul10/azaynul10/master/Most Attractive Youtube Thumbnail .jpg" alt="banner that says Zaynul Abedin Miah - Computer Science student, and a quote">
 <h1 align="center">Hi <img alt="hand waving" width="40" src="https://user-images.githubusercontent.com/87297355/155946069-15aa5c06-ddfe-4d02-96fa-ea9b3eb5ed1c.gif">, I'm Zaynul Abedin Miah</h2>
 <h3 align="center">I am a second-year student at the Brac University, studying towards a degree in Computer Science. My main area of focus is AI and I enjoy working on side projects to enhance my skills for my future career.</h3>
 
