@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/)
 
-- 🌱 I’m currently learning **AWS Cloud and DSA**
+- 🌱 I’m currently learning **ML and AWS Cloud**
 
 - 👯 I’m looking to collaborate on **a project realted to AI,ML,DSA and Devops enthusiast**
 
