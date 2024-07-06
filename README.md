@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=40&pause=1000&color=2000F7&random=false&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Zaynul+Abedin+Miah" alt="Typing SVG" /></a></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=40&pause=1000&color=2000F7&center=true&vCenter=true&random=false&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Zaynul+Abedin+Miah" alt="Typing SVG" /></a></h2>
 <h3 align="center">I am a second-year student at the Brac University, studying towards a degree in Computer Science. My main area of focus is AI and I enjoy working on side projects to enhance my skills for my future career.</h3>
 
 <h1 align="center">You Can Check My <a href="https://dev.to/azaynul10">Blogs Here</a></h1>
