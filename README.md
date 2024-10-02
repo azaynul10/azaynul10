@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/azaynul123" target="blank"><img src="https://img.shields.io/twitter/follow/azaynul123?logo=twitter&style=for-the-badge" alt="azaynul123" /></a> </p>
 
-- 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/) , Co-organizer of [TFUG Bangladesh](https://www.meetup.com/tensorflow-user-group-bd/) and [AI, ML Community (supported by Global AI community and sponsored by Microsoft)](https://www.meetup.com/the-ai-ml-community/) and [among the only 4 selected AWS Cloud Club Captain'24 from BD](https://www.meetup.com/aws-cloud-club-brac-university).
+- 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/) , Co-organizer of [Machine Learning, AI, Deep Learning & NLP Community - Bangladesh supported part of Google's ML Community network](https://www.meetup.com/tensorflow-user-group-bd/) and [AI, ML Community (supported by Global AI community and sponsored by Microsoft)](https://www.meetup.com/the-ai-ml-community/) and [among the only 4 selected AWS Cloud Club Captain'24 from BD](https://www.meetup.com/aws-cloud-club-brac-university).
 
 - 🌱 I’m currently learning **ML and AWS Cloud**
 
@@ -79,7 +79,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azaynul10&theme=tokyonight&utcOffset=8" alt="azanul10" />
 </p>
 
-
+[![azaynul10's GitHub | Topics Over Time](https://stats.quira.sh/azaynul10/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=azaynul10)
 [![azaynul10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azaynul10&theme=tokyo-night&hide_border=true)](https://github.com/azaynul10/github-readme-activity-graph)
 
 <!-- ## <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
