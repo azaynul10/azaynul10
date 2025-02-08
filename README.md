@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/azaynul123" target="blank"><img src="https://img.shields.io/twitter/follow/azaynul123?logo=twitter&style=for-the-badge" alt="azaynul123" /></a> </p>
 
-- 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/) , Co-organizer of [Machine Learning, AI, Deep Learning & NLP Community - Bangladesh (part of Google's ML Community network)](https://www.meetup.com/tensorflow-user-group-bd/) and [AI, ML Community (supported by Global AI community and sponsored by Microsoft)](https://www.meetup.com/the-ai-ml-community/) and [among the only 3 selected AWS Cloud Club Captain'24 from BD](https://www.credly.com/badges/47f59783-87f0-497d-9f1f-dcffc3722e01/public_url).
+- 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/) , Co-organizer of [Machine Learning, AI, Deep Learning & NLP Community - Bangladesh (part of Google's ML Community network)](https://www.meetup.com/tensorflow-user-group-bd/) , [Azure Tech Group Bangladesh](https://www.meetup.com/azure-tech-group-bangladesh) [AI, ML Community (supported by Global AI community and sponsored by Microsoft)](https://www.meetup.com/the-ai-ml-community/) and [among the only 3 selected AWS Cloud Club Captain'24 from BD](https://www.credly.com/badges/47f59783-87f0-497d-9f1f-dcffc3722e01/public_url).
 
 - 🌱 I’m currently learning **ML and AWS Cloud**
 
