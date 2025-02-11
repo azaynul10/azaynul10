@@ -61,7 +61,7 @@
 
 <p align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=azaynul10&theme=transparent&show_icons=true" alt="azaynul10" />
-<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=azaynul10&theme=tokyonight&hide_border=true" alt="azaynul10" />
+<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=azaynul10&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="azaynul10" />
 </p>
 
 
@@ -71,7 +71,10 @@
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azaynul10&theme=tokyonight" alt="azaynul10" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azaynul10&theme=tokyonight" alt="azaynul10" />
+<img width="425" src="https://github.com/DenverCoder1/github-readme-streak-stats" alt="GitHub Streak Stats" />
+</p>
+
+
 </p>
 
 <p align="center">
