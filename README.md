@@ -88,3 +88,8 @@
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31qvjsvrsasz3ywlhwvbuqpnjzvy" height="450" width="500" alt="gabthegreat"/> -->
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<div align="center">
+
+  ![snake gif](https://github.com/azaynul10/azaynul10/blob/output/github-snake-dark.svg)
+
+</div>
