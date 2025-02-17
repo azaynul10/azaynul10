@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/azaynul123" target="blank"><img src="https://img.shields.io/twitter/follow/azaynul123?logo=twitter&style=for-the-badge" alt="azaynul123" /></a> </p>
 
-- 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/) , Co-organizer of [Machine Learning, AI, Deep Learning & NLP Community - Bangladesh (part of Google's ML Community network)](https://www.meetup.com/tensorflow-user-group-bd/) , [Azure Tech Group Bangladesh](https://www.meetup.com/azure-tech-group-bangladesh) [AI, ML Community (supported by Global AI community and sponsored by Microsoft)](https://www.meetup.com/the-ai-ml-community/) and [among the only 3 selected AWS Cloud Club Captain'24 from BD](https://www.credly.com/badges/47f59783-87f0-497d-9f1f-dcffc3722e01/public_url).
+- 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/) , Co-organizer of [Machine Learning, AI, Deep Learning & NLP Community - Bangladesh (part of Google's ML Community network)](https://www.meetup.com/tensorflow-user-group-bd/) , [Azure Tech Group Bangladesh](https://www.meetup.com/azure-tech-group-bangladesh) [AI, ML Community (supported by Global AI community and sponsored by Microsoft)](https://www.meetup.com/the-ai-ml-community/) , [among the only 3 selected AWS Cloud Club Captain'24 from BD](https://www.credly.com/badges/47f59783-87f0-497d-9f1f-dcffc3722e01/public_url) and [Fabric User Community Bangladesh](https://community.fabric.microsoft.com/t5/Fabric-User-Community-Bangladesh/gh-p/FabricUserCommunityBangladesh?wt.mc_id=studentamb_280566).
 
 - 🌱 I’m currently learning **ML and AWS Cloud**
 
@@ -61,12 +61,11 @@
 
 <p align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=azaynul10&theme=transparent&show_icons=true" alt="azaynul10" />
-<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=azaynul10&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="azaynul10" />
+<img width="400" src="https://streak-stats.demolab.com?user=azaynul10&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="azaynul10" />
 </p>
 
-
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azaynul10&theme=tokyonight" alt="azaynul10" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azaynul10&theme=tokyonight" alt="azaynul10" />
 </p>
 
 <p align="center">
@@ -83,10 +82,16 @@
 </p>
 
 [![azaynul10's GitHub | Topics Over Time](https://stats.quira.sh/azaynul10/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=azaynul10)
-[![azaynul10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azaynul10&theme=tokyo-night&hide_border=true)](https://github.com/azaynul10/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azaynul10&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+
 
 <!-- ## <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qvjsvrsasz3ywlhwvbuqpnjzvy&cover_image=true&theme=default&bar_color_cover=true&)](https://spotify-github-profile.vercel.app/api/view?uid=31qvjsvrsasz3ywlhwvbuqpnjzvy&redirect=true)
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31qvjsvrsasz3ywlhwvbuqpnjzvy" height="450" width="500" alt="gabthegreat"/> -->
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<div align="center">
+
+  ![snake gif](https://github.com/azaynul10/azaynul10/blob/output/github-snake-dark.svg)
+
+</div>
