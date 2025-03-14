@@ -78,7 +78,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azaynul10&theme=tokyonight&utcOffset=8" alt="azanul10" />
 </p>
 
-[![azaynul10's GitHub | Topics Over Time](https://stats.quira.sh/azaynul10/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=azaynul10)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=azaynul10&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 
 
