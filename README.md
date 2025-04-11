@@ -70,7 +70,6 @@
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azaynul10&theme=tokyonight" alt="azaynul10" />
-<img width="425" src="https://github.com/DenverCoder1/github-readme-streak-stats" alt="GitHub Streak Stats" />
 </p>
 
 
