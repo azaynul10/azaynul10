@@ -6,7 +6,7 @@
 <p>
 <img align="right" alt="Coding" width="510" height="350" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 </p>
-
+<img src="https://devstats.me/?username=azaynul10" alt="DevStats Card">
 <img align="right" alt="Coding" width="400" height="200" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+world!+%F0%9F%8C%90%F0%9F%92%BB;I+am+an+AI+and+ML+enthusiast++;give+some+stars+%F0%9F%8C%9F;fork+your+favorites+%F0%9F%8D%B4;even+send+a+pull+request+%F0%9F%A4%9D">
 <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/azaynul10/azaynul10/master/daftpunktocat-thomas.gif"></a>
 
