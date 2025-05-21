@@ -1,12 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=40&pause=1000&color=2000F7&center=true&vCenter=true&random=false&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Zaynul+Abedin+Miah" alt="Typing SVG" /></a></h2>
 <h3 align="center">I am a third-year student at the Brac University, studying towards a degree in Computer Science. My main area of focus is AI and I enjoy working on side projects to enhance my skills for my future career.</h3>
+<img align="center" src="https://devstats.me/?username=azaynul10" alt="DevStats Card">
 
 <h1 align="center">You Can Check My <a href="https://dev.to/azaynul10">Blogs Here</a></h1>
 
 <p>
 <img align="right" alt="Coding" width="510" height="350" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 </p>
-<img src="https://devstats.me/?username=azaynul10" alt="DevStats Card">
 <img align="right" alt="Coding" width="400" height="200" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+world!+%F0%9F%8C%90%F0%9F%92%BB;I+am+an+AI+and+ML+enthusiast++;give+some+stars+%F0%9F%8C%9F;fork+your+favorites+%F0%9F%8D%B4;even+send+a+pull+request+%F0%9F%A4%9D">
 <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/azaynul10/azaynul10/master/daftpunktocat-thomas.gif"></a>
 
