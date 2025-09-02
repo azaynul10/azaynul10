@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=azaynul10&label=Profile%20views&color=0e75b6&style=flat" alt="azaynul10" /> 
 </p>
 
-<p align="left"> <a href="https://twitter.com/azaynul123" target="blank"><img src="https://img.shields.io/twitter/follow/azaynul123?logo=twitter&style=for-the-badge" alt="azaynul123" /></a> </p>
+<p align="left"> <a href="https://X.com/azaynul123" target="blank"><img src="https://img.shields.io/twitter/follow/azaynul123?logo=twitter&style=for-the-badge" alt="azaynul123" /></a> </p>
 
 - 🔭 I’m currently working on [as Community Manager of DevChangemMakers Club](https://www.linkedin.com/company/91442132/admin/feed/posts/) , Co-organizer of [Machine Learning, AI, Deep Learning & NLP Community - Bangladesh (part of Google's AI Community network)](https://www.meetup.com/tensorflow-user-group-bd/) , [Azure Tech Group Bangladesh](https://www.meetup.com/azure-tech-group-bangladesh) [AI, ML Community (supported by Global AI community and sponsored by Microsoft)](https://www.meetup.com/the-ai-ml-community/) , [among the only 1 active AWS Cloud Club Captain'24 from BD](https://www.credly.com/badges/47f59783-87f0-497d-9f1f-dcffc3722e01/public_url), Gitkraken Brand Ambassador and [Fabric User Community Bangladesh](https://community.fabric.microsoft.com/t5/Fabric-User-Community-Bangladesh/gh-p/FabricUserCommunityBangladesh?wt.mc_id=studentamb_280566).
 
@@ -36,6 +36,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=azaynul10&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="gabthegreat" />
 </p>
+<img src="https://devstats.me/?username=azaynul10" alt="DevStats Card">
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
