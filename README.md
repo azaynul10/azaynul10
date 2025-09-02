@@ -36,7 +36,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=azaynul10&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="gabthegreat" />
 </p>
-<img src="https://devstats.me/?username=azaynul10" alt="DevStats Card">
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
