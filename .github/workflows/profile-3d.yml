@@ -18,7 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_FOR_3D_CONTRIB }}
           USERNAME: ${{ github.repository_owner }}
-          YEAR: 2020-2025
       - name: List Generated Files  # New: Debug step to show files in logs
         run: |
           echo "Listing all files in the repo after generation:"
