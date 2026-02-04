@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **AI and ML**
 
-- 📫 How to reach me **Zaynul.AbedinMiah@studentambassadors.com**
+- 📫 How to reach me **azaynul3@gmail.com**
 
 - ⚡ Fun fact **I love meeting new people and communicating with them**
 
